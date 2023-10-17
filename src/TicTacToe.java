@@ -34,6 +34,7 @@ public class TicTacToe {
         }
         nowPlayer = nowPlayer.equals("X") ? "0" : "X";
         return "Move completed";
+        return "Move completed";
 
     }
 
